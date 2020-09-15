@@ -5,6 +5,7 @@ For the first portion of the class, we'll be working exclusively inside of the b
 * Slack
 * Homebrew
 * Git
+* VS Code
 
 If you already have some tools and software installed that are similar to below, it will be more conveient for you to switch over than it will be for you to try to go ahead with your current versions.
 

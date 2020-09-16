@@ -45,6 +45,8 @@ Run the following commands in order in a WSL terminal.
 * `git config --global credential.helper cache` This will cache your git credentials for a short time after you enter it.
 * If you wish to extend the amount of time for which your git credentials are cached, run `nano ~/.gitconfig` and edit the line `helper = cache` to `helper = cache --timeout=86400`. The number after `--timeout=` refers to the cache duration in seconds, so the previous line would cache your credentials for 1 day.
 
+~~https://git-scm.com/download/win~~
+
 ## VS Code
 We'll be running Visual Studio Code (*not Visual Studio*), as the text editor of choice.
 
